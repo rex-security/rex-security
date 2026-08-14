@@ -6,19 +6,7 @@ I'm an aspiring cybersecurity professional building practical skills in cybersec
 
 I am actively developing my skills through hands-on projects and security assessments.
 
-I'm particularly interested in **security analysis, threat detection, incident response, vulnerability management, and automation**.
-## 👋 About Me
-
-I am an aspiring cybersecurity professional currently building my knowledge and practical experience in cybersecurity. I am developing skills in security fundamentals, risk assessment, security controls, network security, identity and access management, incident response, and cybersecurity compliance.
-
-## Professional Statement
-
-I am a motivated and responsible professional with a background in Public Administration and a growing specialization in cybersecurity. My strengths include problem-solving, critical thinking, communication, adaptability, and a strong willingness to learn. My academic and work experiences have taught me to be organized, responsible, and attentive to detail, while my growing technical knowledge has strengthened my ability to analyze problems and approach them logically.
-I value integrity, responsibility, continuous learning, and protecting people and organizations from harm. These values have contributed to my interest in cybersecurity, a field where trust, confidentiality, and responsible decision-making are essential. I am particularly interested in understanding how cyber threats occur, identifying vulnerabilities, monitoring security systems, and helping organizations protect their data, networks, and users.
-My interest in cybersecurity has motivated me to develop my knowledge through cybersecurity training and hands-on learning. I am currently building a foundation in areas such as security controls, threat identification, risk assessment, security monitoring, and SIEM technologies. I also plan to continue developing my technical skills in ethical hacking and penetration testing so that I can better understand how attackers exploit vulnerabilities and how organizations can defend against them.
-I believe my strengths, values, and passion for cybersecurity can contribute to an organization's security goals by allowing me to approach security challenges with responsibility, curiosity, and a commitment to continuous improvement. I want to help organizations identify and respond to potential threats, protect sensitive information, reduce security risks, and maintain secure and reliable systems. As I continue developing my technical and professional skills, my goal is to become a cybersecurity professional who can contribute meaningfully to an organization's overall security posture while continuing to learn and adapt to the constantly changing cybersecurity landscape.
-
-
+I'm particularly interested in **security analysis, threat detection, incident response, vulnerability management, and security operations**.
 ---
 
 ## 🛡️ Cybersecurity Skills
@@ -36,100 +24,74 @@ I believe my strengths, values, and passion for cybersecurity can contribute to 
 - ---
 
 ## 🔐 Cybersecurity Projects
-### 🛡️ Botium Toys Security Audit
 
-**Project Type:** Internal Security Audit
-**Focus:** Risk Assessment, Security Controls & Compliance, PCI DSS
+### Botium Toys Security Assessment
 
-**Overview:**
-Conducted an internal security audit for Botium Toys to identify security risks, evaluate existing controls, and determine areas requiring improvement.
+A simulated cybersecurity risk assessment for Botium Toys, focusing on identifying security and compliance gaps and recommending appropriate controls.
 
-**Key Activities:**
+**Areas covered:**
+- Risk assessment
+- Security controls
+- Access control and least privilege
+- PCI DSS
+- NIST Cybersecurity Framework
+- Data protection and encryption
+- Incident response
+- Disaster recovery
+- Security awareness
+- Vulnerability management
 
-* Reviewed existing security controls and compliance requirements
-* Identified security risks and gaps in organizational controls
-* Evaluated administrative, technical, and physical controls
-* Assessed controls related to payment card information and PCI DSS
-* Recommended security improvements based on identified risks
-* Used the NIST Cybersecurity Framework to support the assessment
+**Key recommendations included:**
+- Implement least privilege
+- Strengthen access controls
+- Implement encryption
+- Establish incident response procedures
+- Develop a disaster recovery plan
+- Implement security awareness training
+- Improve vulnerability management
+- Establish asset classification and management
+- ---
 
-**Skills Demonstrated:**
-Risk Assessment • Security Controls • Compliance • PCI DSS • NIST CSF • GDPR • SOC •
-### 🔎 NIST Cybersecurity Framework Assessment
+## 🎓 Certifications & Training
 
-**Project Type:** Cybersecurity Framework Analysis
-**Focus:** Risk Management, Security Operations, NIST CSF
+### Google Cybersecurity Professional Certificate — In Progress
 
-**Overview:**
-Applied the NIST Cybersecurity Framework to understand how organizations can identify, protect against, detect, respond to, and recover from cybersecurity risks.
+**Coursera | Google**
 
-**Key Activities:**
+- ✅ Foundations of Cybersecurity — Completed
+- ✅ Play It Safe: Manage Security Risks — Completed
+- 🔄 Course 3 — In Progress
 
-* Studied the five core NIST CSF functions
-* Analyzed how organizations identify cybersecurity risks
-* Examined security measures used to protect systems and data
-* Reviewed methods for detecting cybersecurity incidents
-* Explored incident response and recovery practices
-* Connected cybersecurity controls to organizational risk management
-
-**Skills Demonstrated:**
-NIST CSF • Risk Management • Security Operations • Incident Response • Security Controls
-### 💳 PCI DSS Compliance Assessment
-
-**Project Type:** Compliance & Security Controls Assessment
-**Focus:** PCI DSS, Payment Card Data, Security Controls
-
-**Overview:**
-Analyzed security controls and compliance requirements related to the protection of payment card information, using PCI DSS principles to identify areas where an organization could strengthen its security posture.
-
-**Key Activities:**
-
-* Reviewed PCI DSS security requirements
-* Identified controls relevant to protecting cardholder data
-* Evaluated access control and authentication requirements
-* Reviewed network security and data protection measures
-* Identified potential compliance gaps
-* Recommended security improvements to reduce risk to payment card information
-
-**Skills Demonstrated:**
-PCI DSS • Compliance • Access Control • Data Protection • Risk Assessment • Security Controls
+I'm currently continuing the Google Cybersecurity Professional Certificate and developing practical knowledge in cybersecurity, risk management, security controls, and security operations.
 ---
 
-## 🧰 Tools & Technologies
+## 👨🏾‍💻 Professional Statement
 
-* Git & GitHub
-* Microsoft Windows
-* Linux Fundamentals
-* Networking Fundamentals
-* Security Monitoring & Logging
-* Identity & Access Management (IAM)
-* NIST Cybersecurity Framework
-* PCI DSS
+I am an aspiring cybersecurity professional with a strong interest in protecting organizations, systems, and sensitive information from cybersecurity threats. I am developing my skills in security fundamentals, risk assessment, security controls, network security, and security operations.
+
+My strengths include attention to detail, critical thinking, problem-solving, adaptability, and a strong willingness to learn. I value integrity, responsibility, continuous learning, and the importance of protecting information and maintaining trust.
+
+My interest in cybersecurity comes from my desire to understand how security threats affect organizations and how effective security controls can reduce those risks. Through my studies and practical assessments, I am developing the ability to identify security weaknesses, evaluate risks, and recommend appropriate controls.
+
+My goal is to apply these skills as I begin my career in cybersecurity and contribute to an organization's security goals by helping protect its systems, data, and users while continuously developing my technical and analytical abilities.
 ---
 
-## 🎓 Education & Training
+## 📚 Current Learning & Goals
 
-### Google Cybersecurity Certificate
+### Currently Learning
+- Google Cybersecurity Professional Certificate
+- Security operations and monitoring
+- Network security fundamentals
+- Risk assessment and security controls
+- NIST Cybersecurity Framework
+- PCI DSS and security compliance
 
-**Coursera — In Progress**
-Currently completing the Google Cybersecurity Certificate program.
+### Future Learning Goals
+- Ethical hacking and penetration testing
+- Vulnerability assessment
+- Security tools and technologies
+- Practical security labs and hands-on projects
 
-Completed:
+### Career Goal
 
-✅ Foundations of Cybersecurity — Course 1 of 9
-✅ Play It Safe: Manage Security Risks — Course 2 of 9
-
-Currently Studying:
-
-🔄 Connect and Protect: Networks and Network Security — Course 3 of 9
-
-The program is developing my knowledge in cybersecurity fundamentals, risk management, security controls, network security, security operations, Linux, SQL, incident response, and threat identification.
-
-## 🚀 Career Goals
-
-My goal is to begin my career in an entry-level cybersecurity role where I can apply my knowledge of security fundamentals, risk assessment, security controls, and security operations.
-
-I am particularly interested in developing my experience in **Security Operations (SOC), incident response, vulnerability management, and ethical hacking**. I plan to continue building my technical skills through hands-on projects, practical labs, and industry-recognized certifications.
-
-
-
+My goal is to begin my career in an entry-level cybersecurity role, such as a **Security Analyst**, while continuing to develop my technical skills and gain practical experience in cybersecurity.
