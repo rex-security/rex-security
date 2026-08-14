@@ -57,17 +57,17 @@ The project involved reviewing the organization's security posture, identifying 
 - Classify assets based on sensitivity and risk
 - ---
 
-## 🎓 Certifications & Training
+## 🎓 Training & Course Progress
 
 ### Google Cybersecurity Professional Certificate — In Progress
 
 **Coursera | Google**
 
-- ✅ Foundations of Cybersecurity — Completed
-- ✅ Play It Safe: Manage Security Risks — Completed
-- 🔄 Course 3 — In Progress
+- ✅ [Course 1: Foundations of Cybersecurity](./Certificates/Foundations-of-Cybersecurity-Certificate.pdf) — Completed
+- ✅ [Course 2: Play It Safe: Manage Security Risks](./Certificates/Play-It-Safe-Manage-Security-Risks-Certificate.pdf) — Completed
+- 🔄 Course 3: Connect and Protect: Networks and Network Security — In Progress
 
-I'm currently continuing the Google Cybersecurity Professional Certificate and developing practical knowledge in cybersecurity, risk management, security controls, and security operations.
+As I progress through the certificate, I am continuing to build practical knowledge in cybersecurity, risk management, network security, security controls, threat management, and incident response.
 ---
 
 ## 👨🏾‍💻 Professional Statement
