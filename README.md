@@ -4,14 +4,12 @@
 
 I'm an aspiring cybersecurity professional building practical skills in cybersecurity, risk assessment, security controls, network security, and security operations.
 
-I recently completed the **Foundations of Cybersecurity** course on Coursera and I'm developing my skills through hands-on projects and security assessments.
+I am actively developing my skills through hands-on projects and security assessments.
 
-I'm particularly interested in **security analysis, threat detection, incident response, vulnerability management, and ethical hacking**.
+I'm particularly interested in **security analysis, threat detection, incident response, vulnerability management, and automation**.
 ## 👋 About Me
 
 I am an aspiring cybersecurity professional currently building my knowledge and practical experience in cybersecurity. I am developing skills in security fundamentals, risk assessment, security controls, network security, identity and access management, incident response, and cybersecurity compliance.
-
-I enjoy learning how organizations protect their systems, networks, and sensitive information from security threats. I am particularly interested in security operations, ethical hacking, and penetration testing, and I am continuing to develop my technical skills through hands-on learning and cybersecurity projects.
 
 * Professional Statement
 I am a motivated and responsible professional with a background in Public Administration and a growing specialization in cybersecurity. My strengths include problem-solving, critical thinking, communication, adaptability, and a strong willingness to learn. My academic and work experiences have taught me to be organized, responsible, and attentive to detail, while my growing technical knowledge has strengthened my ability to analyze problems and approach them logically.
