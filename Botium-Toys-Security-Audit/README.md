@@ -19,6 +19,5 @@ The assessment focused on identifying security risks, reviewing security control
 
 ## Project Documents
 
-📄 [View the completed Controls and Compliance Checklist](./Controls-and-compliance-checklist.docx)
-
+📄 [View the completed Botium Toys Security Audit](./Botium-Toys-Security-Audit.pdf)
 The document contains my completed security controls assessment, compliance review, and recommendations for improving Botium Toys' security posture.
