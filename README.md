@@ -11,45 +11,51 @@ I'm particularly interested in **security analysis, threat detection, incident r
 
 ## 🛡️ Cybersecurity Skills
 
-- Security Fundamentals
-- Risk Assessment
-- Security Controls & Compliance
-- Network Security
-- Identity & Access Management (IAM)
-- Incident Response
-- Vulnerability Management
+### Current Skills & Knowledge
+
+- Cybersecurity Fundamentals
+- Security Risk Management
+- Security Controls
+- Security Auditing
+- Network Security Fundamentals
+- Network Protocols
+- Security Hardening
+- Threat Management
+- Security Awareness
+- Incident Response Fundamentals
 - NIST Cybersecurity Framework (NIST CSF)
 - PCI DSS
-- Security Monitoring & Logging
-- ---
+---
 
 ## 🔐 Cybersecurity Projects
 
-### Botium Toys Security Assessment
+### Botium Toys Security Audit
 
-A simulated cybersecurity risk assessment for Botium Toys, focusing on identifying security and compliance gaps and recommending appropriate controls.
+Completed a simulated internal security audit for Botium Toys as part of the Google Cybersecurity Professional Certificate.
+
+The project involved reviewing the organization's security posture, identifying control and compliance gaps, and recommending improvements.
 
 **Areas covered:**
-- Risk assessment
-- Security controls
-- Access control and least privilege
+- Security risk assessment
+- Controls assessment
+- Least privilege
+- Separation of duties
+- Encryption
+- Password policies
+- Intrusion detection
+- Disaster recovery
+- Asset classification
 - PCI DSS
 - NIST Cybersecurity Framework
-- Data protection and encryption
-- Incident response
-- Disaster recovery
-- Security awareness
-- Vulnerability management
 
-**Key recommendations included:**
-- Implement least privilege
-- Strengthen access controls
-- Implement encryption
-- Establish incident response procedures
-- Develop a disaster recovery plan
-- Implement security awareness training
-- Improve vulnerability management
-- Establish asset classification and management
+**Key recommendations:**
+- Implement least privilege and stronger access controls
+- Improve encryption of sensitive information
+- Establish password policies and secure password management
+- Implement an intrusion detection system
+- Develop and test a disaster recovery plan
+- Improve legacy system management
+- Classify assets based on sensitivity and risk
 - ---
 
 ## 🎓 Certifications & Training
@@ -67,31 +73,38 @@ I'm currently continuing the Google Cybersecurity Professional Certificate and d
 
 ## 👨🏾‍💻 Professional Statement
 
-I am an aspiring cybersecurity professional with a strong interest in protecting organizations, systems, and sensitive information from cybersecurity threats. I am developing my skills in security fundamentals, risk assessment, security controls, network security, and security operations.
+I am a motivated and responsible professional with a background in Public Administration and a growing specialization in cybersecurity. My strengths include problem-solving, critical thinking, communication, adaptability, and a strong willingness to learn. My academic and work experiences have taught me to be organized, responsible, and attentive to detail, while my growing technical knowledge has strengthened my ability to analyze problems and approach them logically.
+I value integrity, responsibility, continuous learning, and protecting people and organizations from harm. These values have contributed to my interest in cybersecurity, a field where trust, confidentiality, and responsible decision-making are essential. I am particularly interested in understanding how cyber threats occur, identifying vulnerabilities, monitoring security systems, and helping organizations protect their data, networks, and users.
+My interest in cybersecurity has motivated me to develop my knowledge through cybersecurity training and hands-on learning. I am currently building a foundation in areas such as security controls, threat identification, risk assessment, security monitoring, and SIEM technologies. I also plan to continue developing my technical skills in ethical hacking and penetration testing so that I can better understand how attackers exploit vulnerabilities and how organizations can defend against them.
+I believe my strengths, values, and passion for cybersecurity can contribute to an organization's security goals by allowing me to approach security challenges with responsibility, curiosity, and a commitment to continuous improvement. I want to help organizations identify and respond to potential threats, protect sensitive information, reduce security risks, and maintain secure and reliable systems. As I continue developing my technical and professional skills, my goal is to become a cybersecurity professional who can contribute meaningfully to an organization's overall security posture while continuing to learn and adapt to the constantly changing cybersecurity landscape.
+# Current Learning & Future Skills
 
-My strengths include attention to detail, critical thinking, problem-solving, adaptability, and a strong willingness to learn. I value integrity, responsibility, continuous learning, and the importance of protecting information and maintaining trust.
-
-My interest in cybersecurity comes from my desire to understand how security threats affect organizations and how effective security controls can reduce those risks. Through my studies and practical assessments, I am developing the ability to identify security weaknesses, evaluate risks, and recommend appropriate controls.
-
-My goal is to apply these skills as I begin my career in cybersecurity and contribute to an organization's security goals by helping protect its systems, data, and users while continuously developing my technical and analytical abilities.
 ---
 
-## 📚 Current Learning & Goals
+## 📚 Current Learning & Future Skills
 
-### Currently Learning
-- Google Cybersecurity Professional Certificate
-- Security operations and monitoring
-- Network security fundamentals
-- Risk assessment and security controls
-- NIST Cybersecurity Framework
-- PCI DSS and security compliance
+### Currently Developing
 
-### Future Learning Goals
-- Ethical hacking and penetration testing
-- Vulnerability assessment
-- Security tools and technologies
-- Practical security labs and hands-on projects
+* Network security
+* Network protocols
+* Security hardening
+* Threat management
+* Security awareness
+* Incident response fundamentals
+
+### Upcoming Skills in the Google Cybersecurity Certificate
+
+* Linux
+* Bash scripting
+* SQL
+* Python programming
+* Intrusion detection and prevention
+* Cyber threat intelligence
+* Vulnerability management
+* Threat modeling
+* Cyber attack analysis
+* Security incident management
 
 ### Career Goal
 
-My goal is to begin my career in an entry-level cybersecurity role, such as a **Security Analyst**, while continuing to develop my technical skills and gain practical experience in cybersecurity.
+My goal is to begin my career in an entry-level cybersecurity role, such as a **Cybersecurity Analyst or Security Analyst**, while continuing to strengthen my technical skills through hands-on projects, labs, and real-world security scenarios.
