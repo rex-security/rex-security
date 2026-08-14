@@ -111,29 +111,19 @@ PCI DSS • Compliance • Access Control • Data Protection • Risk Assessmen
 ### Google Cybersecurity Certificate
 
 **Coursera — In Progress**
+Currently completing the Google Cybersecurity Certificate program.
 
-Currently completing the Google Cybersecurity Certificate program. Training includes topics such as:
+Completed:
 
-* Cybersecurity fundamentals
-* Network security
-* Security operations
-* Risk management
-* Security controls
-* Linux and SQL
-* Incident response
-* Threat identification
+✅ Foundations of Cybersecurity — Course 1 of 9
+✅ Play It Safe: Manage Security Risks — Course 2 of 9
 
-### Diploma in Public Administration
+Currently Studying:
 
-**University of Ghana**
+🔄 Connect and Protect: Networks and Network Security — Course 3 of 9
 
-Developed skills in:
+The program is developing my knowledge in cybersecurity fundamentals, risk management, security controls, network security, security operations, Linux, SQL, incident response, and threat identification.
 
-* Administration and organizational management
-* Policy and governance
-* Research and analytical thinking
-* Communication and problem-solving
----
 ## 🚀 Career Goals
 
 My goal is to begin my career in an entry-level cybersecurity role where I can apply my knowledge of security fundamentals, risk assessment, security controls, and security operations.
