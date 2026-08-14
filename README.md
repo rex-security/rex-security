@@ -53,7 +53,7 @@ Conducted an internal security audit for Botium Toys to identify security risks,
 * Used the NIST Cybersecurity Framework to support the assessment
 
 **Skills Demonstrated:**
-Risk Assessment • Security Controls • Compliance • PCI DSS • NIST CSF • GDPR • SOC TYPE 1 • SOC TYPE 2
+Risk Assessment • Security Controls • Compliance • PCI DSS • NIST CSF • GDPR • SOC •
 ### 🔎 NIST Cybersecurity Framework Assessment
 
 **Project Type:** Cybersecurity Framework Analysis
