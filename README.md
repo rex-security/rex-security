@@ -11,12 +11,14 @@ I'm particularly interested in **security analysis, threat detection, incident r
 
 I am an aspiring cybersecurity professional currently building my knowledge and practical experience in cybersecurity. I am developing skills in security fundamentals, risk assessment, security controls, network security, identity and access management, incident response, and cybersecurity compliance.
 
-## Professional Statement
+##Professional Statement
 
 I am a motivated and responsible professional with a background in Public Administration and a growing specialization in cybersecurity. My strengths include problem-solving, critical thinking, communication, adaptability, and a strong willingness to learn. My academic and work experiences have taught me to be organized, responsible, and attentive to detail, while my growing technical knowledge has strengthened my ability to analyze problems and approach them logically.
 I value integrity, responsibility, continuous learning, and protecting people and organizations from harm. These values have contributed to my interest in cybersecurity, a field where trust, confidentiality, and responsible decision-making are essential. I am particularly interested in understanding how cyber threats occur, identifying vulnerabilities, monitoring security systems, and helping organizations protect their data, networks, and users.
 My interest in cybersecurity has motivated me to develop my knowledge through cybersecurity training and hands-on learning. I am currently building a foundation in areas such as security controls, threat identification, risk assessment, security monitoring, and SIEM technologies. I also plan to continue developing my technical skills in ethical hacking and penetration testing so that I can better understand how attackers exploit vulnerabilities and how organizations can defend against them.
 I believe my strengths, values, and passion for cybersecurity can contribute to an organization's security goals by allowing me to approach security challenges with responsibility, curiosity, and a commitment to continuous improvement. I want to help organizations identify and respond to potential threats, protect sensitive information, reduce security risks, and maintain secure and reliable systems. As I continue developing my technical and professional skills, my goal is to become a cybersecurity professional who can contribute meaningfully to an organization's overall security posture while continuing to learn and adapt to the constantly changing cybersecurity landscape.
+
+
 ---
 
 ## 🛡️ Cybersecurity Skills
