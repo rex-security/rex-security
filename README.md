@@ -29,7 +29,7 @@ I'm particularly interested in **security analysis, threat detection, incident r
 
 ## 🔐 Cybersecurity Projects
 
-### Botium Toys Security Audit
+### [Botium Toys Security Audit](./Botium-Toys-Security-Audit/)
 
 Completed a simulated internal security audit for Botium Toys as part of the Google Cybersecurity Professional Certificate.
 
